@@ -1,6 +1,6 @@
 # palindrome
 
-https://travis-ci.org/[edcoffin]/[palindrome].png
+![Travlis-CLI status](https://travis-ci.org/[edcoffin]/[palindrome].png)
 
 Test whether a word is a palindrome.
 
